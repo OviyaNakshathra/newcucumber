@@ -1,8 +1,8 @@
 Feature: test siginup in testme app
 Scenario: test the signup fuctionalities with inputs
 Given user login to TestMe App
-When user enters the  username as "naksha"
-When user enters the  firstname as "nakshathra"
+When user enters the  username as "nakshaovi"
+When user enters the  firstname as "naksha"
 And user enters the lastname as  "arivazhagan"
 And user enters the password as "nakshasivamA123"
 And user enters the confirmpwd as "nakshasivamA123"
